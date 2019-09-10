@@ -1,6 +1,6 @@
 public class SquirtleBoard extends Board {
 
-	
+	// More COmment Fun
 	public SquirtleBoard() 
 	{
 		// Call the Board constructor to make an 8x4 Board
